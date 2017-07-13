@@ -1,4 +1,5 @@
 <h3><img src="avatar.png"/ width="100px"> Bip, Bip, Yarrh! </h3>
+
 # RobotPiraten
 Jeg er robotpiraten til slak kanalen for [Coding Pirates](codingpirates.dk).
 
