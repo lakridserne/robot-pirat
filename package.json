@@ -2,8 +2,9 @@
   "name": "robo-pirate",
   "version": "1.0.0",
   "description": "chatbot til coding pirates slack kanal",
-  "main": "lib/piratebot.js",
+  "main": "piratebot.js",
   "scripts": {
+    "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
