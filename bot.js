@@ -2,7 +2,7 @@
 "use strict";
 
 const path = require('path')
-const pirateBot = require('./lib/robot-pirat');
+const pirateBot = require(path.join(__dirname, 'lib', 'robot-pirat'));
 
 
 const token = process.env.BOT_API_KEY;
