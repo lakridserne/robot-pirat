@@ -11,7 +11,7 @@ deres profil oplysninger og hvad folk ellers kan finde på til mig.
 - [x] Poste i annonceringer hver gang en ny kanal åbnes.
 - [x] Byde nye medlemmer velkommen
 - [ ] Tjekke om folk har udfyldt deres profiloplysninger
-- [ ] Lave afstemninger
+
 
 
 #### Har du lyst til at kode på mig?
