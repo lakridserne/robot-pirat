@@ -16,12 +16,15 @@
     "bot"
   ],
   "author": "Benjamin Rotendahl",
+  "engines": {
+    "node": "8.5.x"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Rotendahl/robo-pirate/issues"
   },
   "homepage": "https://github.com/Rotendahl/robo-pirate#readme",
   "dependencies": {
-    "slackbots": "^0.5.1"
+    "slackbots": "^1.1.0"
   }
 }
