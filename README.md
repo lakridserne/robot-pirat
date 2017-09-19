@@ -9,7 +9,7 @@ deres profil oplysninger og hvad folk ellers kan finde på til mig.
 
 #### Hvad kan jeg nu?:
 - [x] Poste i annonceringer hver gang en ny kanal åbnes.
-- [ ] Byde nye medlemmer velkommen
+- [x] Byde nye medlemmer velkommen
 - [ ] Tjekke om folk har udfyldt deres profiloplysninger
 - [ ] Lave afstemninger
 
