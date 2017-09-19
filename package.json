@@ -2,8 +2,9 @@
   "name": "robo-pirate",
   "version": "1.0.0",
   "description": "chatbot til coding pirates slack kanal",
-  "main": "lib/piratebot.js",
+  "main": "piratebot.js",
   "scripts": {
+    "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,12 +16,15 @@
     "bot"
   ],
   "author": "Benjamin Rotendahl",
+  "engines": {
+    "node": "8.5.x"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Rotendahl/robo-pirate/issues"
   },
   "homepage": "https://github.com/Rotendahl/robo-pirate#readme",
   "dependencies": {
-    "slackbots": "^0.5.1"
+    "slackbots": "^1.1.0"
   }
 }

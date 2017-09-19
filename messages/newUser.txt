@@ -1,0 +1,16 @@
+Hej og velkommen til Coding Pirates Slack.
+
+Slack er vores interne kommunikationsplatform, hvor vi både snakker seriøst og laver sjov.
+
+Det første du skal gøre er at opdatere din profil tekst med hvilken afdeling du tilhører, tilføj også hvis du er afdelingsleder eller med i en lokalbestyrelse. “Hvorfor?” hører jeg dig spørge...fordi den dag du skal snakke med John fra Hvidovre tror vi du sætter pris på at det står i hans profil. De andre Johns er med garanti hyggelige, men det kan være du har travlt og bare skal ramme rigtigt første gang.
+
+Slack er bygget op i såkaldte "kanaler".
+Kanalerne #random og #piratchat er til alt mellem himmel og jord, og de kan nemt køre ud af en tangent.   #afdelingskaptajner er til koordinering mellem afdelingsledere, #regnskabshajer er en selvhjælpsgruppe for lokale kasserer og mange afdelinger har også en lokal kanal. Hvis du er interesseret i en given teknologi, så findes der måske en kanal til det. Vi har #arduino, #c-sharp, #stencyl, #scratch og mange, mange flere.
+
+Nogle af piratbørnene er også med på Slack. De kan kendes ved at statusikonet ved deres navn er en firkant (kontra en cirkel for en voksen), samt at der ligger en lille firkant indlejeret nede i hjørnet af deres profilbillede. De er nye i trafikken, så vi skal allesammen hjælpe dem til at opføre sig pænt på et stort forum hvor der også (en gang imellem) arbejdes seriøst. Her er det værd at huske at man aldrig må slå på børn (medmindre man går til liverollespil, så må man gerne).
+
+Hvis du har nogle spørgsmål så stil dem endelig i #kontakt_sekrateriatet. Aldrig i #piratchat. Ej, vi spøger bare, man må gerne stille spørgsmål i #piratchat, men man skal bare være klar til at få rigtig mange svar.
+
+Slack-ikette:
+
+Der er kun nogle få spilleregler man skal overholde:  Man skal tale pænt til hinanden, også når man er uenig (klart!).  Man må gerne tagge folk i et spørgsmål ved at bruge @<navn>, men selv om det virker ufattelig fristende må man aldrig bruge @channel (eller @everyone) medmindre du “ejer” kanalen (er et bestyrelsesmedlem eller afdelingsleder og du vil fange alle på din afdelings kanal).  Det svarer lidt til at trykke på alle dørklokkerne i opgangen: det er meget sjovt indtil folk begynder at kaste med ting ud fra balkonen...man må *kun* når der er ildebrand eller hvis man har noget rigtig vigtigt.

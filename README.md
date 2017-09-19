@@ -4,12 +4,12 @@
 Jeg er robotpiraten til slak kanalen for [Coding Pirates](codingpirates.dk).
 
 Mine opgaver er at byde de nye medlemmer velkommen, tjekke at folk har udfyldt
-deres profil oplysninger og hvad folk ellers kan finde på til mig.  
+deres profil oplysninger og hvad folk ellers kan finde på til mig.
 
 
 #### Hvad kan jeg nu?:
 - [x] Poste i annonceringer hver gang en ny kanal åbnes.
-- [ ] Byde nye medlemmer velkommen
+- [x] Byde nye medlemmer velkommen
 - [ ] Tjekke om folk har udfyldt deres profiloplysninger
 - [ ] Lave afstemninger
 
@@ -21,3 +21,9 @@ nemmere at arbejde med [Slack API'en](https://api.slack.com/rtm).
 
 Hvis du har nogle spørgsmål, eller skal bruge en API token for at teste, så
 skriv til `@rotendahl` på slack.
+
+For at starte mig kør kommandoen
+
+```bash
+$ npm start
+```
