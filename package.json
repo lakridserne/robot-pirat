@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/Rotendahl/robo-pirate#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
     "slackbots": "^1.1.0"
   }
 }

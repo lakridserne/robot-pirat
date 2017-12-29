@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Invitation til Coding Pirates Slack</title>
+        <meta charset="UTF-8">
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            body {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+            }
+        </style>
+    </head>
+    <body>
+        <form method="POST" action="/invite">
+            <table>
+                <tr>
+                    <h1>Invitation til Coding Pirates Slack</h1>
+                </tr>
+                <tr>
+                    <h2>Indtast dine informationer her og modtag en invitation på e-mail</h2>
+                </tr>
+                <tr>
+                    <td><label for="name">Navn: </label></td><td><input name="name" type="text"></td>
+                </tr>
+                <tr>
+                    <td><label for="email">E-mail: </label></td><td><input name="email" type="email"></td>
+                </tr>
+                <tr>
+                    <td><button type="submit">Indsend</button></td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
