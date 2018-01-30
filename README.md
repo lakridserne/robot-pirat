@@ -15,7 +15,9 @@ deres profil oplysninger og hvad folk ellers kan finde på til mig.
 
 #### Hvad har jeg brug for?
 - En bot api token
+  - Skal sættes i en environment variabel kaldet BOT_API_KEY
 - En user api token (legacy token)
+  - Skal sættes i en environment variabel kaldet USER_API_KEY
 - Slack skal kende min webadresse
 Under "Interactive Components" skal webadressen jeg bor på indtastes med "/command" efter.
 På den måde, kan Slack tale med mig.
