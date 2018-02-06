@@ -6,10 +6,12 @@ const fs   = require('fs')
 const pirateBot  = require(path.join(__dirname, 'lib', 'robot-pirat'));
 const roboServer = require(path.join(__dirname, 'lib', 'server'));
 
-const token        = process.env.BOT_API_KEY;
-const userToken    = process.env.USER_API_KEY;
-const name         = process.env.BOT_NAME;
-const PORT         = process.env.PORT;
+const token             = process.env.BOT_API_KEY;
+const userToken         = process.env.USER_API_KEY;
+const verificationToken = process.env.VERIFICATION_TOKEN;
+const name              = process.env.BOT_NAME;
+const PORT              = process.env.PORT;
+
 const volunteerChannels = JSON.parse(
 	fs.readFileSync(path.join(__dirname, 'messages', 'volunteerChannels.json')));
 const childChannels = JSON.parse(
@@ -19,7 +21,7 @@ const roboPirate = new pirateBot({
     token,
     name,
     channel: 'annonceringer',
-    inviteChannel: 'testrobot'
+    inviteChannel: 'slack-invites'
 });
 
 const server = new roboServer({
@@ -27,7 +29,8 @@ const server = new roboServer({
 	roboPirate,
 	userToken,
 	volunteerChannels,
-	childChannels
+	childChannels,
+	verificationToken
 });
 
 server.run();
