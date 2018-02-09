@@ -13,6 +13,12 @@
         align-items: center;
         height: 100vh;
       }
+
+      textarea {
+        width: 300px;
+        height: 5em;
+      }
+
     </style>
   </head>
   <body>
@@ -35,6 +41,9 @@
             <input type="radio" name="type" value="barn" required> Barn<br>
             <input type="radio" name="type" value="frivillig" required> Frivillig
           </td>
+          <tr>
+              <textarea name="info" type="textfield" placeholder="Fortæl lidt om dig selv. Hvilken forening/afdeling? Sidder du i en bestyrelse? Er der andet vi skal vide?" required></textarea>
+          </tr>
         </tr>
         <tr>
           <td><button type="submit">Indsend</button></td>
