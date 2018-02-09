@@ -11,7 +11,7 @@ deres profil oplysninger og hvad folk ellers kan finde på til mig.
 - [x] Poste i annonceringer hver gang en ny kanal åbnes.
 - [x] Byde nye medlemmer velkommen
 - [x] Tjekke om folk har udfyldt deres profiloplysninger
-- [ ] Sende invitationer til nye medlemmer
+- [x] Sende invitationer til nye medlemmer
 
 #### Hvad har jeg brug for?
 - En bot api token
